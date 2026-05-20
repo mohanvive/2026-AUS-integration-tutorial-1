@@ -47,3 +47,4 @@ type InventoryAlertEvent record {
     int remainingQuantity;
     string timestamp;
 };
+
